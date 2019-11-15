@@ -25,5 +25,6 @@ def map_to_double(source_array)
     array << item 
     i += 1 
   end 
+  return array
 end 
 
