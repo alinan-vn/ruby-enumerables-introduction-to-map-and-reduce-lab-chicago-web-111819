@@ -2,7 +2,11 @@
 
 
 def map_to_negativize(source_array)
-  array = source_array * -1 
+  array = []
+  i = 0
+  
+  
+  
   return array
   
   
